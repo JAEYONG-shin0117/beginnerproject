@@ -1,0 +1,5 @@
+django
+djangorestframework
+pytesseract
+pillow
+transformers

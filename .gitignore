@@ -1,0 +1,6 @@
+.idea
+venv
+__pycache__
+/staticfiles
+/mediafiles
+.DS_Store
