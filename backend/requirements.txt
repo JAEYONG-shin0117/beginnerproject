@@ -23,3 +23,6 @@ tqdm
 requests
 tokenizers
 huggingface-hub
+rake-nltk
+pdfplumber
+tf-keras
